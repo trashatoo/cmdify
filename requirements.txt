@@ -1,0 +1,5 @@
+spotipy
+Pillow
+colorama
+requests
+pyfiglet
